@@ -1,4 +1,4 @@
-tsks = []
+tasks = []
 
 def show_menu():
     print("\nTo-Do List:")
